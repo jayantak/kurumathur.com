@@ -13,6 +13,12 @@ BODY {
     font-size: .5em;
 }
 
+
+.text-simple {
+    font-size: .5em;
+    color: #f1f1f1;
+}
+
 svg {
     position: absolute;
     width: 100%;
